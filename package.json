@@ -1,0 +1,10 @@
+{
+  "name": "@itsy/onespeed",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": "./index.js",
+  "description": "a plugin to hotfix behavior between Vite 5+ and UnoCSS",
+  "author": "Dave Honneffer <pearofducks@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/itsyjs/onespeed"
+}
